@@ -64,6 +64,11 @@ const server = http.createServer(function (req, res) {
       res.write(data);
       res.end();
     });
+  } else if (page == '/css/background.jpeg') {
+    fs.readFile('css/background.jpeg', function (err, data) {
+      res.write(data);
+      res.end();
+    });
   } else if (page == '/js/main.js') {
     fs.readFile('js/main.js', function (err, data) {
       res.writeHead(200, { 'Content-Type': 'text/javascript' });
