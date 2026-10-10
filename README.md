@@ -10,7 +10,7 @@ Use this program if you want to play a matching card game!
 <img width="1091" height="922" alt="Screenshot 2026-10-05 at 1 04 23 AM" src="https://github.com/user-attachments/assets/2ca7ce81-0275-4476-880a-c56c92c89e3a" />
 
 # ✨ Features
-* Responsive design for desktop and mobile.         
+* Responsive design for desktop and mobile         
 
 # 🔨 Built With
 * HTML5 – structure    
